@@ -1,20 +1,7 @@
-![](https://i.imgur.com/xG74tOh.png)
 
-# Desafio | Front-end - Módulo 2
+# Front-end - utilização de HTML e CSS
 
-O objetivo deste exercício é replicar o website encontrado no figma [``Desafio front academy 1.fig``](https://www.figma.com/file/79R31SMg3mwnd9AWRa3nIF/Desafio-front-academy-md02?node-id=0%3A1&t=LPHOqT9G1QSvmHjY-1).
-
-## Páginas obrigatórias
-
-- [Home](#Home)
-
-## Páginas opcionais
-
-- [Portfolio](#Portfolio)
-- [Portfolio - 01 - Manage](#Portfolio---01---Manage)
-- [Portfolio - 02 - Bookmark](#Portfolio---02---Bookmark)
-- [Portfolio - 03 - Insure](#Portfolio---03---Insure)
-- [Portfolio - 04 - Fylo](#Portfolio---04---Fylo)
+O objetivo deste projeto é replicar o website encontrado no figma, conforme imagnes abaixo. o projeto foi realizado utilizando uma boa prática de divisão do html e estilizações com css.
 
 ### Home
 
@@ -128,8 +115,3 @@ Seções
 - Footer ![](https://i.imgur.com/P06m37L.png)
 
 
-
-
-**LEMBRE-SE**: Feito é melhor do que perfeito, mas não faça mal feito!!!
-
-###### tags: `front-end` `módulo 2` `HTML` `CSS` `desafio`
